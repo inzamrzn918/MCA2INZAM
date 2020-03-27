@@ -1,0 +1,6 @@
+#include"q1.h"
+#include"questions.h"
+#include"q2.h"
+#include"q3.h"
+#include"q4a5.h"
+#include"linkedList.h"

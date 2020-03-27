@@ -1,0 +1,124 @@
+
+
+
+
+
+Q.1
+Write a program in C++ to create an array of integers and perform
+the following operations
+    a) Insert an element in a specific position of the array
+    b)Delete an element from a specific position of the array
+    c)Search an element in the array
+    d) Reverse the array elements.
+    e)Sort the elements in the array
+
+
+Q.2
+An array A contains 5 elements whereas another array B contains
+10 elements. write a function to create an array C that contain only
+those elements that are common to both A and B.
+
+
+Q.3
+
+Write a program in C++ to create a two dimensional array of
+integers (matrix)and perform the following operations
+    a) Addition of two matrices
+    b) Multiplication of two matrices
+    c) Transpose of the matrix
+
+Q.4
+
+Write a program in C++ to create a singly linked list of integers and
+perform the following operations
+    a)Add a node at the end of a linked list
+    b)Add a node at the beginning of a linked list
+    c)Add a node after a specified position
+    d)Count the number of nodes present in the linked list
+    e)Delete a specified node from the linked list
+    f) Reverse the linked list
+
+Q.5
+
+Write a program in C++ to create a doubly linked list of integers
+and perform the following operations
+
+    a)Add a node at the end of a linked list
+    b)Add a node at the beginning of a linked list
+    c)Add a node after a specified position
+    d)Count the number of nodes present in the linked list
+    e)Delete a specified node from the linked list
+    f) Reverse the linked list
+
+Q.6
+
+Write a program in C++ to read the name ,age and salary of 5
+persons and maintains them in a linked list sorted by name
+
+
+Q.7
+  Write a program in c++ to merge two singly linked list
+
+Q.8 
+  Write a program in c++ to merge two doubly linked list
+
+Q.9
+ Write a program to implement stack as an array.
+
+Q.10
+ Write a program to implement stack as a linked list.
+
+Q.11
+ Write a program to implement stack with two dimensional array.
+
+Q.12
+ Write a program to convert an infix expression into its postfix
+notation.
+
+Q.13
+ Write a program to evaluate a postfix expression.
+
+1Q.14
+ Write a program to copy the contents of one stack to another.
+
+
+Q.15 
+Write a program to implement queue as an array.
+
+
+Q.16
+ Write a program to implement queue as a linked list.
+
+
+
+Q.17
+ Write a program to implement circular queue as an array.
+
+Q.18
+ Write a program to implement circular queue as a linked list.
+
+Q.19
+ Write a program to implement an input restricted deque as an array.
+
+Q.20
+ Write a program to implement an output restricted deque as an
+array.
+
+Q.21
+ Write a program to represent a deque using linked list.
+
+Q.22
+ Write a program to implement priority queue as an array.
+
+Q.23
+ Write a program to implement priority queue as a linked list
+
+Q.24
+ Write a program to implement two queue in a single array (Optional)
+
+Q.25
+ Write a program to implement three stack in a single array (Optional)
+
+ *****************************************************************
+ *****************************************************************
+ *****************************************************************

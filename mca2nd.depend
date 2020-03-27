@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1584170374 source:d:\data structure\mca2nd\main.cpp
+	<iostream>
+	"inc.h"
+	<fstream>
+	"case1.h"
+	"case3.h"
+
+1584168804 d:\data structure\mca2nd\inc.h
+	"q1.h"
+	"questions.h"
+	"q2.h"
+	"q3.h"
+
+1584166259 d:\data structure\mca2nd\q1.h
+	<bits/stdc++.h>
+
+1584129643 d:\data structure\mca2nd\questions.h
+	<string>
+	<fstream>
+
+1584166730 d:\data structure\mca2nd\q2.h
+	<bits/stdc++.h>
+
+1584166479 d:\data structure\mca2nd\case1.h
+
+1584170301 d:\data structure\mca2nd\q3.h
+
+1584169045 d:\data structure\mca2nd\case3.h
+
